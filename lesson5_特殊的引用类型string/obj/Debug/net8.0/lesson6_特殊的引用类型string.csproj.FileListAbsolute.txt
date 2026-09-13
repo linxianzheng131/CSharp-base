@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\bin\Debug\net8.0\lesson6_特殊的引用类型string.exe
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\bin\Debug\net8.0\lesson6_特殊的引用类型string.deps.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\bin\Debug\net8.0\lesson6_特殊的引用类型string.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\bin\Debug\net8.0\lesson6_特殊的引用类型string.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\bin\Debug\net8.0\lesson6_特殊的引用类型string.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\refint\lesson6_特殊的引用类型string.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\lesson6_特殊的引用类型string.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson5_特殊的引用类型string\obj\Debug\net8.0\ref\lesson6_特殊的引用类型string.dll

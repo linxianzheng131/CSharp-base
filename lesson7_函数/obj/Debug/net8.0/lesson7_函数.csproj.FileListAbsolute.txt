@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\bin\Debug\net8.0\lesson7_函数.exe
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\bin\Debug\net8.0\lesson7_函数.deps.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\bin\Debug\net8.0\lesson7_函数.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\bin\Debug\net8.0\lesson7_函数.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\bin\Debug\net8.0\lesson7_函数.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\refint\lesson7_函数.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\lesson7_函数.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson7_函数\obj\Debug\net8.0\ref\lesson7_函数.dll
