@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\bin\Debug\net8.0\lesson4_交错数组.exe
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\bin\Debug\net8.0\lesson4_交错数组.deps.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\bin\Debug\net8.0\lesson4_交错数组.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\bin\Debug\net8.0\lesson4_交错数组.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\bin\Debug\net8.0\lesson4_交错数组.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\refint\lesson4_交错数组.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\lesson4_交错数组.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson4_交错数组\obj\Debug\net8.0\ref\lesson4_交错数组.dll
