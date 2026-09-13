@@ -1,0 +1,14 @@
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\bin\Debug\net8.0\lesson13_冒泡排序.exe
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\bin\Debug\net8.0\lesson13_冒泡排序.deps.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\bin\Debug\net8.0\lesson13_冒泡排序.runtimeconfig.json
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\bin\Debug\net8.0\lesson13_冒泡排序.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\bin\Debug\net8.0\lesson13_冒泡排序.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.AssemblyInfoInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.AssemblyInfo.cs
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.csproj.CoreCompileInputs.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\refint\lesson13_冒泡排序.dll
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.pdb
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\lesson13_冒泡排序.genruntimeconfig.cache
+D:\Users\Carl\Desktop\C#\CSharp基础教程\lesson1_枚举\lesson13_冒泡排序\obj\Debug\net8.0\ref\lesson13_冒泡排序.dll
